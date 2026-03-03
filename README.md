@@ -22,7 +22,7 @@
 
 **Output:**
 
-![Terminal window showing a Python greeting program prompting for user name input and displaying a personalized greeting message](screenshots/challenge_01_output.png)
+![Challenge 1 Output](screenshots/challenge_01_output.png)
 
 ### Challenge 2 — Age Calculator
 
@@ -32,4 +32,14 @@
 
 **Output:**
 
-![Terminal window showing a Python age calculator program requesting birth year input and displaying calculated age result](screenshots/challenge_02_output.png)
+![Challenge 2 Output](screenshots/challenge_02_output.png)
+
+### Challenge 3 — Temperature Converter
+
+**Concepts:** `input()`, casting with (float), f-strings, arithmetic
+
+**Solution file:** `challenge_03_temperature_converter.py`
+
+**Output:**
+
+![Challenge 3 Output](screenshots/challenge_03_output.png)
