@@ -44,3 +44,12 @@
 
 ![Challenge 3 Output](screenshots/challenge_03_output.png)
 
+### Challenge 4 — Shopping Receipt
+
+**Concepts:** input(), float(), int(), f-strings, basic arithmetic, string alignment
+
+**Solution file:** `challenge_04_shopping_receipt.py`
+
+**Output:**
+
+![Challenge 4 Output](screenshots/challenge_04_output.png)
