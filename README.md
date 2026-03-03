@@ -43,3 +43,4 @@
 **Output:**
 
 ![Challenge 3 Output](screenshots/challenge_03_output.png)
+
