@@ -9,3 +9,4 @@ fahrenheit = (celsius * 9/5) + 32
 
 # Print the result rounded to 2 decimal places
 print(f"{celsius}°C is equal to {fahrenheit:.2f}°F")
+
